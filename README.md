@@ -1,5 +1,5 @@
 
-# Virginia Soda Tax | Economic Policy Analysis
+# Economic Prospective Policy Analysis on Virginia Soda Tax
 
 **Applied Microeconomics · Public Finance · Demand Estimation · Policy Simulation**
 
