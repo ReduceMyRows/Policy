@@ -8,6 +8,7 @@ An illustrative policy simulation examining the potential economic implications 
 - Log-log demand elasticity estimation
 - Income-tier analysis
 - Tax pass-through and revenue simulation
+- API Census pull through Microsoft Power Query
 - Data transformation using Microsoft Power Query
 
 The project uses illustrative data and should not be interpreted as an empirical evaluation of an implemented Virginia tax.
