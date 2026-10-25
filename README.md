@@ -5,6 +5,20 @@
 
 An illustrative economic analysis evaluating the potential effects of a hypothetical 5% soda tax in Virginia on consumer demand, tax revenue, and distributional outcomes.
 
+[**View Full Presentation (PDF)**](./WataruHoeltermann_Proj1.pdf)
+
+---
+
+<details>
+<summary>Supporting Files & Data</summary>
+
+The Excel workbook contains the analytical data.
+
+The Power BI file contains Power Query M scripts for data preparation and Census integration. Its data connections are currently inactive.
+
+</details>
+
+
 ## 1. Research Objective
 
 This project examines how consumer responses to a soda tax may differ across income groups and how these differences affect projected tax revenue.
